@@ -1,5 +1,7 @@
 Resample lib for sound
 ======================
+lib old name Smarc
+ref <https://ccrma.stanford.edu/~jos/resample/Free_Resampling_Software.html>
 
 Install
 =======
