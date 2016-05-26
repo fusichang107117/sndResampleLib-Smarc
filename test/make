@@ -1,0 +1,1 @@
+gcc filtering.o multi_stage.o polyfilt.o remez_lp.o smarc.o stage_impl.o resample.c -lm -lsmarc -L.
