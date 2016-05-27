@@ -1,3 +1,6 @@
+/*
+ *  gcc *.o resample.c -lsndfile -lm
+ * */
 #include "../smarc.h"
 #include <stdio.h>
 #include <stdint.h>

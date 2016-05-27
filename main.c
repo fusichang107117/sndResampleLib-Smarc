@@ -173,6 +173,7 @@ int main(int argc, char** argv) {
 			exitcode = -1;
 			goto exit;
 		}
+
         printf("samplerate=%d", info.samplerate);
         printf("format=%x", info.format);
         printf("channels=%x", info.channels);
